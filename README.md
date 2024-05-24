@@ -1,6 +1,6 @@
-CID_399_Athena_Commando_F_AshtonBoardwalk, 1500
-Pickaxe_ID_202_AshtonBoardwalk, 800
-Glider_ID_141_AshtonBoardwalk, 1000
+CID_761_Athena_Commando_M_CycloneSpace, 1500
+Pickaxe_ID_359_CycloneMale, 500
+Glider_ID_095_Witch, 800
 na
 na
 na
